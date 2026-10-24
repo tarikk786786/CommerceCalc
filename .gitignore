@@ -1,0 +1,25 @@
+# Environment & Credentials (NEVER commit secrets)
+appinfo11.txt
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Build artifacts & executables
+dist/
+build/
+*.exe
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

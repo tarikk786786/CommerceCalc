@@ -1,0 +1,7 @@
+product_name,sku,purchase_cost,packaging_cost,inbound_shipping,listed_price,actual_selling_price,quantity,marketplace_commission,forward_shipping,payment_gateway_fee,advertising_cost,gst_rate_pct,category,channel
+SAMPLE: Classic Men's Cotton T-Shirt,TSH-M-BLK,240,15,20,799,649,1,45,60,13,35,5,Apparel,Amazon India
+SAMPLE: Wireless Bluetooth Earbuds V5.3,EAR-TWS-01,480,25,30,1499,1199,1,120,75,24,90,18,Electronics,Flipkart
+SAMPLE: Stainless Steel Water Bottle 1L,BOT-SS-1000,180,20,25,699,549,2,55,70,11,40,12,Home & Kitchen,Meesho
+SAMPLE: Organic Cold Pressed Almond Oil 200ml,OIL-ALM-200,320,30,20,899,749,1,75,65,15,50,5,Beauty & Personal Care,Shopify
+SAMPLE: Heavy Duty Phone Tripod Stand,TRP-HD-PRO,210,20,35,749,599,1,60,70,12,45,18,Accessories,Custom D2C
+SAMPLE: Loss Leader Demo Item (Negative Profit),LOSS-DEMO-01,500,30,40,699,499,1,80,90,10,120,18,Demo,Amazon India
